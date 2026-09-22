@@ -1,11 +1,11 @@
 {
-    "name": "trip_console",
-    "short_name": "trip_console",
+    "name": "Trip.Console",
+    "short_name": "Trip.Console",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#2D3E50",
+    "theme_color": "#2D3E50",
+    "description": "Trip.Console is a group-trip planning platform for Kerala's schools, colleges, and pilgrimage groups — plan trips, book KSRTC transport, and split payments digitally.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
